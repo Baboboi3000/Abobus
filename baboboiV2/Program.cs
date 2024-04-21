@@ -1,5 +1,4 @@
-﻿using System.Buffers;
-
+﻿
 while (true)
 {
     Console.WriteLine("Ведите первое число");
